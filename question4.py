@@ -1,0 +1,10 @@
+a="6.5"
+b="82"
+c=7.9
+d=12
+e=13j+4j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
